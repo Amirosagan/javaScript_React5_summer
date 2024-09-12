@@ -1,0 +1,20 @@
+h2
+{
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50vh;
+}
+
+a {
+    color: #000011;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000011;
+    text-decoration: underline;
+}
+
